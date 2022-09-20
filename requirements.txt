@@ -1,0 +1,2 @@
+PyMuPDF==1.18.9
+fitz==0.0.1.dev2
